@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684080609229",
+    "project_id": "fir-otp-1eebb",
+    "storage_bucket": "fir-otp-1eebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684080609229:android:0d421488f223cbfe847684",
+        "android_client_info": {
+          "package_name": "com.geeksforgeeks.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684080609229-4sdk7l5h3k4sr0qbvvfcqb8jkg64imff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDyjwqHG36PsFyXXFklUBYLpQ5lQBGcIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684080609229-4sdk7l5h3k4sr0qbvvfcqb8jkg64imff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
